@@ -10,7 +10,7 @@
 
 <h2 align="center">The easiest way to deploy mah bot! is click on the image below</h2>
 
-<p align="center"><a href="https://heroku.com/deploy"> <img src="https://telegra.ph/file/0d4088fed32da2a9a92bf.png" alt="Click Here to Deploy" /></a></p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lalrochhara/Molly)
 
 <h2 align="center">Updates and Support</h2>
 
